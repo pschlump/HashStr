@@ -1,0 +1,6 @@
+LICENSE
+README.md
+hash.go
+hash_test.go
+test.test
+test.txt
